@@ -58,7 +58,7 @@ conda activate cancer
 3. Install the required dependencies:
 ```
 pip install -r requirements.txt
-
+```
 
 ## Workflows
 
