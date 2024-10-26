@@ -23,9 +23,9 @@ The project structure is organized as follows:
 - `params.yaml`: Parameter file that stores model-specific parameters and configurations.
 - `entity`: Directory containing entity definitions and related files.
 - `src/config`: Directory containing the configuration manager for accessing project configurations.
-- `components`: Directory containing various components used in the text summarization pipeline.
+- `components`: Directory containing various components used in the chest cancer pipeline.
 - `pipeline`: Directory containing the main text chest cancer pipeline implementation.
-- `main.py`: Main script that orchestrates the text summarization process.
+- `main.py`: Main script that orchestrates the chest cancer process.
 - `.github/workflows`:Contains code for CICD .
 
 ## Pipelines
