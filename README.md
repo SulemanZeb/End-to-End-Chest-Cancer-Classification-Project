@@ -181,3 +181,12 @@ DVC
 
     ECR_REPOSITORY_NAME = simple-app
 
+```
+
+For any inquiries or questions, please feel free to contact me at sulemanzeb50@gmail.com.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as per the terms of the license.
+
+---
